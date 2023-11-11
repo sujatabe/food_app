@@ -1,0 +1,15 @@
+{
+  "name": "food_app",
+  "version": "1.0.0",
+  "description": "food delivery app",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "sujata",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongodb": "^6.2.0"
+  }
+}
